@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177177124263",
+    "firebase_url": "https://allup-sa.firebaseio.com",
+    "project_id": "allup-sa",
+    "storage_bucket": "allup-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177177124263:android:7d3dece6cc80dc85e52a82",
+        "android_client_info": {
+          "package_name": "com.sistema.allup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177177124263-j7l82vontd838let4a4un7bcvctccvlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZzhD31SMvP7dpVZoZtNazjB-4IWQqXI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177177124263-j7l82vontd838let4a4un7bcvctccvlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

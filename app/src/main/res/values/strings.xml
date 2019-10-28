@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">all Up</string>
+    <string name="nombre">ALL UP</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrate</string>
+    <string name="bienvenido">Bienvenido...!!</string>
+    <string name="img">imagen</string>
+
+</resources>
